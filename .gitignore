@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Julia / Pluto
+Manifest.toml
+*.jl.cov
+*.jl.*.cov
+
+# Entornos y cachés de Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+tmp/
+
