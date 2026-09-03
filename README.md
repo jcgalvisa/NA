@@ -8,7 +8,7 @@ Autor y docente: [Juan Galvis](https://scholar.google.com/citations?user=lbfc2jo
 
 ## Portada interactiva
 
-La [Introducción interactiva al Análisis Numérico](https://jcgalvisa.github.io/NA/docs/) presenta los objetivos del curso, las familias de problemas, las fuentes de error y el papel del cómputo científico. La publicación se actualiza automáticamente desde `docs/` mediante GitHub Pages.
+El archivo fuente de la [Introducción al Análisis Numérico](https://github.com/jcgalvisa/NA/blob/main/docs/index.html) contiene una presentación HTML sobre los objetivos del curso, las familias de problemas, las fuentes de error y el papel del cómputo científico. GitHub lo muestra como código fuente dentro del repositorio.
 
 ## Ruta de estudio
 

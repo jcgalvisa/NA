@@ -34,7 +34,7 @@ jobs:
       - name: Preparar sitio
         uses: actions/upload-pages-artifact@v4
         with:
-          path: .
+          path: docs
 
       - name: Publicar sitio
         id: deployment
